@@ -1,7 +1,6 @@
 <h1 align="center">📦 StrukturData_Python</h1>
 <p align="center">
   <b>Latihan Dasar Array, List, dan Dictionary di Python</b><br>
-  <sub>Kumpulan skrip interaktif untuk memahami struktur data fundamental</sub>
 </p>
 
 <div align="center">
@@ -20,9 +19,6 @@
 - **Array (list sederhana dengan sorting)**
 - **List (pengumpulan kata unik)**
 - **Dictionary (perhitungan karakter unik)**
-
-Sangat cocok untuk pemula yang ingin belajar Python melalui pendekatan praktis dan interaktif.
-
 ---
 
 ## 🧠 Teknologi
@@ -37,8 +33,7 @@ Sangat cocok untuk pemula yang ingin belajar Python melalui pendekatan praktis d
 StrukturData_Python/
 ├── Array.py         # Input angka, simpan dalam array/list, urutkan, dan tampilkan
 ├── List.py          # Input kata hingga kosong, lalu tampilkan semua kata
-├── Dictionary.py    # Hitung jumlah karakter unik dalam satu kata
-└── README.md
+└── Dictionary.py    # Hitung jumlah karakter unik dalam satu kata
 ```
 
 ---
@@ -87,21 +82,7 @@ Kata 'python' terdiri dari 6 karakter unik.
 
 ---
 
-## 📌 Catatan
-
-- Program ini berbasis terminal/console dan interaktif
-- Dapat dikembangkan menjadi aplikasi GUI atau berbasis web
-- Cocok untuk pengajaran di tingkat dasar
-
----
-
 ## 👨‍💻 Author
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
-
----
-
-## 📄 Lisensi
-
-Proyek ini bebas digunakan untuk keperluan pembelajaran dan pengembangan pribadi.
